@@ -9,6 +9,9 @@ __pycache__/
 # model pytorch
 output/
 
+# mac
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
