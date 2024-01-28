@@ -1,5 +1,5 @@
 # Tuto@Mate spaCy
 
 Ressources pour le Tuto@Mate du 19 mai 2022 sur spaCy
+Quelques modifications pour faire tourner les modèles sur mac
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clement-plancq/tuto-mate/main)
